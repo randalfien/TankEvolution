@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <param name="tankAcceleration" value="10"	description="" />
+    <param name="tankSpeedDecay" value="0.6"	description="Percent per sec" />
+    <param name="tankRateOfFire" value="0.5"	description="time between shots" />
+    <param name="tankTopSpeed" value="15"	description="in meters per second" />
+    <param name="tankRadialSpeed" value="1.6"	description="in radians pre second" />
+    <param name="worldWidth" value="350"	description="in meters" />
+    <param name="worldHeight" value="250"	description="in meters" />
+</config>

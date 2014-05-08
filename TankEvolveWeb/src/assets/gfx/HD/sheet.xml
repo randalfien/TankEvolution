@@ -1,0 +1,12 @@
+<TextureAtlas imagePath="sheet.png">
+	<SubTexture name="btnPlay.png" x="0" y="480" width="380" height="150"/>
+	<SubTexture name="btnSettings.png" x="0" y="632" width="380" height="150"/>
+	<SubTexture name="font1.png" x="406" y="80" width="256" height="256"/>
+	<SubTexture name="grass.png" x="0" y="784" width="225" height="225"/>
+	<SubTexture name="heading.png" x="0" y="0" width="733" height="78"/>
+	<SubTexture name="mapBackground.png" x="0" y="80" width="404" height="398"/>
+	<SubTexture name="mapPlayer.png" x="711" y="80" width="8" height="8"/>
+	<SubTexture name="mapTank.png" x="701" y="80" width="8" height="8"/>
+	<SubTexture name="mapViewport.png" x="664" y="80" width="35" height="35"/>
+	<SubTexture name="tank.png" x="227" y="784" width="115" height="142"/>
+</TextureAtlas>
